@@ -1,0 +1,23 @@
+-6.864670331973396, 107.55124321090763 (Seblak parasman ATEU) 10-19 WIB
+Jl. Encep Kartawiria No.134b, Citeureup, Kec. Cimahi Utara, Kota Cimahi, Jawa Barat 40512
+
+-6.876907189908732, 107.55988661777393 (Nangkring Seblak (Cimahi) 10-22 WIB
+Jl. Pesantren No.135/137, Cibabat, Kec. Cimahi Utara, Kota Cimahi, Jawa Barat 40513
+
+-6.887125480640013, 107.531286327888 (SEBLAK PRASMANAN JEGER) 10.30 - 21.30
+Jl. Unjani No.19B, Baros, Kec. Cimahi Tengah, Kota Cimahi, Jawa Barat 40521
+
+-6.890435114565164, 107.5201607269504 ( SEBLAK DRANC CIBEBER) 11.30 - 21.30
+Jl. Ibu Ganirah No.89, Cibeber, Kec. Cimahi Sel., Kota Cimahi, Jawa Barat 40531
+
+-6.899814667809749, 107.52903948281357 (Nonk Nenk Seblak Prasmanan) 10-21 WIB
+Jl. Sadarmanah Gg. Madhapi No.98, RT.03/RW.02, Leuwigajah, Kec. Cimahi Sel., Kota Cimahi, Jawa Barat 40532
+
+-6.900193517483158, 107.53002832029382 (SEBLAK DAPOER SEMOET) 10-21 WIB
+Jl. Sadarmanah No.84, Leuwigajah, Kec. Cimahi Sel., Kota Cimahi, Jawa Barat 40532 
+
+-6.925349046286722, 107.56044934103006 (SEBLAK PRASMANAN SIMPANG) 10-22 WIB 
+Jl. Melong IV No.161, Melong, Kec. Cimahi Sel., Kota Cimahi, Jawa Barat 40215
+
+-6.9192046664992635, 107.56377868677191 (SEBLAK PRASMANAN ANESHA) 
+Jl. Melong Raya No.23, RT.01/RW.26, Melong, Kec. Cimahi Sel., Kota Cimahi, Jawa Barat 40534
